@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eeadb1c-05f5-43b1-8851-28f342d21f01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PrintReverse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PrintBothWays.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/BinarySearch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/BinarySearch.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PrintReverse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/PrintReverse.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +46,25 @@
     "Kotlin.BinarySearchKt.executor": "Run",
     "Kotlin.FibonacciAndFactorialKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.PrintBothWaysKt.executor": "Run",
+    "Kotlin.PrintReverseKt.executor": "Debug",
     "Kotlin.RecursionProblemSolvingKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/sma54/SAN/KOTLIN/LearnRecursionUsingKotlin/src/main/kotlin",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.PrintReverseKt">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.PrintBothWaysKt">
     <configuration name="BinarySearchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.BinarySearchKt" />
       <module name="LearnRecursionUsingKotlin.main" />
@@ -78,6 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrintBothWaysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.PrintBothWaysKt" />
+      <module name="LearnRecursionUsingKotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintReverseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.PrintReverseKt" />
       <module name="LearnRecursionUsingKotlin.main" />
@@ -87,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PrintBothWaysKt" />
         <item itemvalue="Kotlin.PrintReverseKt" />
         <item itemvalue="Kotlin.FibonacciAndFactorialKt" />
         <item itemvalue="Kotlin.BinarySearchKt" />
@@ -103,5 +119,21 @@
       <updated>1712469041262</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/PrintReverse.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/PrintReverse.kt</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
