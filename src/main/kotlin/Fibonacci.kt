@@ -8,7 +8,7 @@ class Fibonacci {
 
 fun main() {
     val obj = Fibonacci()
-    val num = 9
+    val num = 0
     val result = obj.fib(num)
     println("Fibonacci of $num is $result")
 }
