@@ -18,7 +18,7 @@ class BinarySearch {
 fun main() {
     val bs = BinarySearch()
     val sortedArray = arrayListOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
-    val target = 8
+    val target = 50
     val result3 = bs.search(sortedArray, 0, sortedArray.size - 1, target)
     println("The target $target is at index $result3")
 }
