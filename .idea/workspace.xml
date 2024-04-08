@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eeadb1c-05f5-43b1-8851-28f342d21f01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Sum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SumOfDigits.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Fibonacci.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Fibonacci.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,7 @@
     "Kotlin.PrintReverseKt.executor": "Debug",
     "Kotlin.RecursionProblemSolvingKt.executor": "Run",
     "Kotlin.SumKt.executor": "Run",
+    "Kotlin.SumOfDigitsKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -67,7 +67,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SumKt">
+  <component name="RunManager" selected="Kotlin.SumOfDigitsKt">
     <configuration name="FactorialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.FactorialKt" />
       <module name="LearnRecursionUsingKotlin.main" />
@@ -96,13 +96,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintReverseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.PrintReverseKt" />
-      <module name="LearnRecursionUsingKotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.SumKt" />
       <module name="LearnRecursionUsingKotlin.main" />
@@ -110,13 +103,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfDigitsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SumOfDigitsKt" />
+      <module name="LearnRecursionUsingKotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SumOfDigitsKt" />
         <item itemvalue="Kotlin.SumKt" />
         <item itemvalue="Kotlin.FibonacciKt" />
         <item itemvalue="Kotlin.FactorialKt" />
         <item itemvalue="Kotlin.PrintBothWaysKt" />
-        <item itemvalue="Kotlin.PrintReverseKt" />
       </list>
     </recent_temporary>
   </component>
